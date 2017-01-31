@@ -1,0 +1,11 @@
+{
+  "token": "YOUR BOT TOKEN",
+  "owner": "YOUR DISCORD USER ID",
+  "db": "postgres://user:password@example.com:5432/db",
+  "ravenKey": "YOUR SENTRY.IO KEY",
+  "YouTubeAPIKey": "YOUR YOUTUBE API KEY",
+  "defaultVolume": 25,
+  "maxLength": 15,
+  "maxSongs": 5,
+  "passes": 4
+}
